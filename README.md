@@ -4,3 +4,4 @@
 
 - [Day 0](https://tcc.lovebyte.party/day0/) - Setup
 - [Day 1](https://tcc.lovebyte.party/day1/) - Making Shapes
+- [Day 2](https://tcc.lovebyte.party/day2/) - Snow time() Like the Present
