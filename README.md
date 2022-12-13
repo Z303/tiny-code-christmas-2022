@@ -4,6 +4,7 @@
 
 - [Day 0](https://tcc.lovebyte.party/day0/) - Setup
 - [Day 1](https://tcc.lovebyte.party/day1/) - Making Shapes
+
     TIC-80: [240 bytes](./day01/tic-80.md) and [306 bytes](.day01/tic-80-extended.md)
 - [Day 2](https://tcc.lovebyte.party/day2/) - Snow time() Like the Present
 
