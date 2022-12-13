@@ -1,5 +1,5 @@
-# Day 1
-![Chirstmas trees over a sky background with a snowman to one side](./day01.gif)
+# Day 1 Extended
+![Chirstmas trees in front of a mountain range and sky background with a snowman to one side](./day01extended.gif)
 ```
 function TIC()
 c,r,t=circ,rect,tri
@@ -8,6 +8,10 @@ f=130
 h=240
 w=70
 r(0,f,h,6,12)
+for i=20,650,160 do
+x=i&h
+t(x,90,x+w,f,x-w,f,13+i/h)
+end
 b=20
 z=10
 v=30
