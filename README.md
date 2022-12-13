@@ -4,4 +4,6 @@
 
 - [Day 0](https://tcc.lovebyte.party/day0/) - Setup
 - [Day 1](https://tcc.lovebyte.party/day1/) - Making Shapes
+    [TIC-80](./day01/tic80.md)
 - [Day 2](https://tcc.lovebyte.party/day2/) - Snow time() Like the Present
+    [TIC-80](./day02/tic80.md)
