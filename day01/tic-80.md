@@ -1,4 +1,5 @@
 # Day 1
+![Chirstmas trees over a sky background with a snowman to one side](./day01/day01.gif)
 ```
 function TIC()
 c,r,t=circ,rect,tri
