@@ -1,5 +1,5 @@
 # Day 1 Extended
-![Chirstmas trees in front of a mountain range and sky background with a snowman to one side](./day01/day01extended.gif)
+![Chirstmas trees in front of a mountain range and sky background with a snowman to one side](./day01extended.gif)
 ```
 function TIC()
 c,r,t=circ,rect,tri
