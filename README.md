@@ -4,7 +4,7 @@
 
 - [Day 0](https://tcc.lovebyte.party/day0/) - Setup
 - [Day 1](https://tcc.lovebyte.party/day1/) - Making Shapes
-
+    ![Chirstmas trees over a sky background with a snowman to one side](./day01/day01.gif)
     Source: [TIC-80](./day01/tic-80.md)
 - [Day 2](https://tcc.lovebyte.party/day2/) - Snow time() Like the Present
 
