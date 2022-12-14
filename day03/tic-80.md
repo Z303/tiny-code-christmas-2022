@@ -3,20 +3,13 @@
 ```
 t=0
 s=10
-r=32
 w=240
-m=math
 function TIC()
-a=t/r
-p=m.sin(a)*r
-q=m.cos(a)*r
 for i=0,w*136 do
 x=i%w
 y=i//w
-u=(p+x)//s
-v=(q+y)//s
-c=(u+v)%2
-pix(x,y,8+c)
+v=y-t
+pix(x,y,8+(x//s+v/s)%2)
 end
 print("Z303",108,64,12)
 t=t+1
