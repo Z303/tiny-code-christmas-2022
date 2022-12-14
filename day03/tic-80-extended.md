@@ -1,5 +1,5 @@
-# Day 2
-![A chequerboard in shades of blue scroling in a circle and zooming in and outwith a white Z£03 text in the centre](./day03extended.gif)
+# Day 3 Extended
+![A chequerboard in shades of blue scroling in a circle and zooming in and out with a white Z303 text in the centre](./day03extended.gif)
 ```
 t=0
 l=10

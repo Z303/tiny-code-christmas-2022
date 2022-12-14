@@ -1,4 +1,4 @@
-# Day 2
+# Day 3
 ![A chequerboard in shades of blue scroling up with a white Z£03 text in the centre](./day03.gif)
 ```
 t=0
