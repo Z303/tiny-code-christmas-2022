@@ -1,15 +1,18 @@
 # Day 2
-![A chequerboard in shades of blue scroling ina circle with a white Z£03 text in the centre](./day03extended.gif)
+![A chequerboard in shades of blue scroling in a circle and zooming in and outwith a white Z£03 text in the centre](./day03extended.gif)
 ```
 t=0
-s=10
+l=10
+h=80
 w=240
 m=math
-r=32
+r=128
 function TIC()
 a=t/r
 p=m.sin(a)*r
 q=m.cos(a)*r
+j=(h-l)/2
+s=l+j+m.cos(t/h)*j
 for i=0,w*136 do
 x=i%w
 y=i//w
