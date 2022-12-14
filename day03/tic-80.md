@@ -1,5 +1,5 @@
 # Day 2
-![A chequerboard in shades of blue scroling up with a white Z£03 text in the centre](./day02.gif)
+![A chequerboard in shades of blue scroling up with a white Z£03 text in the centre](./day03.gif)
 ```
 t=0
 s=10
