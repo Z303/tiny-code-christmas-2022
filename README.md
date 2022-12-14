@@ -11,4 +11,4 @@
     TIC-80: [234 bytes](./day02/tic-80.md)
 - [Day 3](https://tcc.lovebyte.party/day3/) - Little By Little
 
-    TIC-80: [127 bytes](./day03/tic-80.md)
+    TIC-80: [127 bytes](./day03/tic-80.md) and [179bytes](./day03/tic-80-extended.md)
