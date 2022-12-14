@@ -1,5 +1,5 @@
 # Day 2
-![Amountain range with snow falling in front](./day02.gif)
+![A mountain range with snow falling in front](./day02.gif)
 ```
 t=0
 function TIC()
