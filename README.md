@@ -9,3 +9,6 @@
 - [Day 2](https://tcc.lovebyte.party/day2/) - Snow time() Like the Present
 
     TIC-80: [234 bytes](./day02/tic-80.md)
+- [Day 3](https://tcc.lovebyte.party/day3/) - Little By Little
+
+    TIC-80: [127 bytes](./day03/tic-80.md) and [179 bytes](./day03/tic-80-extended.md)
