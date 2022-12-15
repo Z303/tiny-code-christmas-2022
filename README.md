@@ -12,3 +12,6 @@
 - [Day 3](https://tcc.lovebyte.party/day3/) - Little By Little
 
     TIC-80: [127 bytes](./day03/tic-80.md), [214 bytes](./day03/tic-80-extended.md) and a [litle intro](./day03/intro.md)
+- [Day 4](https://tcc.lovebyte.party/day4/) - Sines of the Times
+
+    TIC-80: [128 bytes](./day03/tic-80.md) and a [Plasma](./day03/plasma.md)    
