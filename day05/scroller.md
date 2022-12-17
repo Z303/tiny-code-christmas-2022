@@ -5,7 +5,7 @@ m=math
 z=print
 t,w,h=0,120,68
 l={3,7,10}
-text="Hello. I'd forgotten how much a hate writing scrollers. Wrap. "
+text="Hello. I'd forgotten how much I hate writing scrollers. Wrap. "
 scrolltext=string.rep(text,3)
 len=string.len(scrolltext)/3
 function TIC()
@@ -32,6 +32,10 @@ visible=string.sub(scrolltext,start,start+41)
 z(visible,0-fine-1,-1+i*6,15,1)
 z(visible,0-fine,i*6,12,1)
 end
+rect(212,126,27,9,0)
+rect(225,127,13,7,12)
+z("Z3",214,128,12)
+z("03",226,128,0)
 t=t+1
 end
 ```

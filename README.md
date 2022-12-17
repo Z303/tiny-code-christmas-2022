@@ -18,3 +18,7 @@
 - [Day 5](https://tcc.lovebyte.party/day5/) - Polar Express
 
     TIC-80: [233 bytes](./day05/tic-80.md) and some [scrollers](./day05/scroller.md)  
+- [Day 6](https://tcc.lovebyte.party/day6/) - Hello, Demoscene!
+
+    TIC-80: [255 bytes](./day06/tic-80.md)  
+    
