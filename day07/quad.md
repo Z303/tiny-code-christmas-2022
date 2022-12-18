@@ -1,5 +1,5 @@
 # Quad
-![The screen divided into quarters. The first showing a a moving patterns of twisting coloured bars. The second a cheqerboard in 3d scrolling towards the viewer with ball sprite in a animating pattern. The third some horizontally scrolling sine waves with line of scrolling text in front and last a spinning circluar colour whele](./quad.gif)
+![The screen is divided into quarters. The first shows a moving patterns of twisting coloured bars. The second is a chequerboard in 3d scrolling towards the viewer with ball sprite in an animating pattern. The third is some horizontally scrolling sine waves with a line of scrolling text in front, and the last is a spinning coloured tunnel](./quad.gif)
 ```
 m=math
 e=m.sin
