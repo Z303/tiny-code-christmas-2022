@@ -13,13 +13,28 @@ len=string.len(text)/h
 function TIC()for i=0,w*h-1 do
 x=i%w
 y=i//w
-z=y/w+.3n=x-60q=t/16p(x+w,y,8+(n/z//64+y/z/16-q)%2)p(x,y,r*e(t/h+x/w)+r*e(t/r+y/w))p(x+w,y+h,q+(m.atan2(y-h/2,n)+m.pi)*2.546)
-o=9+18*m.cos(t/160)
-p(x,y+h,8+(o*e(x/16+q)-y)/34)
+z=y/w+.3
+n=x-60
+q=t/16
+p(x+w,y,8+(n/z//64+y/z/16-q)%2)
+p(x,y,r*e(t/h+x/w)+r*e(t/r+y/w))
+u=x-w/2
+v=y-h/2
+dist=200/(u*u+v*v+1)^0.5
+angle=q+(m.atan2(v,u)+m.pi)*2.546
+if (dist>20)
+then
+colour=0
+else
+colour=angle//1+((dist+t/8)//1)%16
+end
+p(x+w,y+h,colour)
+o=9+18*m.cos(t/80)
+p(x,y+h,8+(o*e(x/16+t/40)-y)/34)
 end
 for i=0,128 do
 ax=i*16+t/32
-ay=i*32+t/64
+ay=i*64+t/64
 sx=210/4
 sy=88/4
 px=145
