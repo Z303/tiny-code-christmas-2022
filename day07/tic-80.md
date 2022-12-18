@@ -1,5 +1,5 @@
 # Day 7
-![The screen divided into quarters. The first showing a a moving patterns of twisting coloured bars. The second a cheqerboard in 3d scrolling towards the viewer. The third some horizontally scrolling sine waves and last a spinning circluar colour whele](./day07.gif)
+![The screen is divided into quarters. The first shows a moving pattern of twisting coloured bars. The second is a chequerboard in 3d scrolling towards the viewer. The third is some horizontally scrolling sine waves, and the last is a spinning circular colour wheel](./day07.gif)
 ```
 m=math
 e=m.sin
