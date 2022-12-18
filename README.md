@@ -21,6 +21,6 @@
 - [Day 6](https://tcc.lovebyte.party/day6/) - Hello, Demoscene!
 
     TIC-80: [255 bytes](./day06/tic-80.md)  
-- [Day 6](https://tcc.lovebyte.party/day7/) - Mix and Match
+- [Day 7](https://tcc.lovebyte.party/day7/) - Mix and Match
 
     TIC-80: [254 bytes](./day07/tic-80.md)  and [Quad](./day07/quad.md)   
