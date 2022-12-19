@@ -23,4 +23,7 @@
     TIC-80: [255 bytes](./day06/tic-80.md)  
 - [Day 7](https://tcc.lovebyte.party/day7/) - Mix and Match
 
-    TIC-80: [254 bytes](./day07/tic-80.md)  and [Quad](./day07/quad.md)   
+    TIC-80: [254 bytes](./day07/tic-80.md)  and [Quad](./day07/quad.md) 
+- [Day 8](https://tcc.lovebyte.party/day8/) - Round and Round
+
+    TIC-80: [256 bytes](./day08/tic-80.md)   
