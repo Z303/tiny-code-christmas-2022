@@ -1,5 +1,5 @@
-# Day 7
-![A greyscale sine wave pattern scrolling up with a six colourful tubes rotating around each other](./day07.gif)
+# Day 8
+![A greyscale sine wave pattern scrolling up with a six colourful tubes rotating around each other](./day08.gif)
 ```
 m=math
 s=m.sin
