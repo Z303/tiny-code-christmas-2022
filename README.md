@@ -27,3 +27,6 @@
 - [Day 8](https://tcc.lovebyte.party/day8/) - Round and Round
 
     TIC-80: [256 bytes](./day08/tic-80.md)   
+- [Day 9](https://tcc.lovebyte.party/day9/) - Shade the Bob
+
+    TIC-80: [236 bytes](./day09/tic-80.md)   
