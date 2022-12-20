@@ -1,5 +1,5 @@
 # Day 9
-![Colour circle leaving trails spinnig around on screen. Filling the screen with different colours as they pas over the iamge](./day09.gif)
+![Colour circle leaving trails spinning around on screen. Filling the screen with different colours as they pas over the image](./day09.gif)
 ```
 m=math
 s=m.sin
