@@ -30,6 +30,6 @@
 - [Day 9](https://tcc.lovebyte.party/day9/) - Shade the Bob
 
     TIC-80: [236 bytes](./day09/tic-80.md)   
-- [Day 10](https://tcc.lovebyte.party/day9/) - The Big Squeeze
+- [Day 10](https://tcc.lovebyte.party/day10/) - The Big Squeeze
 
     TIC-80:
