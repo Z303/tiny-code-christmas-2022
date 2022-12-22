@@ -32,4 +32,4 @@
     TIC-80: [236 bytes](./day09/tic-80.md)   
 - [Day 10](https://tcc.lovebyte.party/day10/) - The Big Squeeze
 
-    TIC-80:
+    TIC-80: [255 bytes](./day10/tic-80.md)  
