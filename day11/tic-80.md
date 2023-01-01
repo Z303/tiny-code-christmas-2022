@@ -19,32 +19,32 @@ function TIC()
  	s=sin(angle)
  	c=sin(angle-11)
 
- 	px = x*c - y*s
- 	py = x*s + y*c
+ 	px= x*c - y*s
+ 	py= x*s + y*c
 
- 	qy = py*s + z*c
+ 	qy= py*s + z*c
 
 		pts[#pts+1]=
-			{x=px*c - qy*s,
-			 y=py*c - z*s,
-				z=px*s + qy*c + 400}
+		    {x= px*c - qy*s,
+		     y= py*c - z*s,
+		     z= px*s + qy*c + 400}
 	end
 	end	
  end
 
- table.sort(pts,function (a,b) 
+ table.sort(pts,function (a, b) 
 			return a.z>b.z end)
 
 	a=124*sin(angle*120/68)
 
 	cls(15)
-	rect(120+a,0,600,600,14)
+	rect(120+a, 0, 600, 600, 14)
 
 	for p=1,#pts do 				 		
 		for w=0,2 do 
 			circ(pts[p].x*600/pts[p].z+120-w/2,
 			     pts[p].y*600/pts[p].z+68-w/2,
-								3-w,pts[p].x<a and 8+w or w)
+			     3-w, pts[p].x<a and 8+w or w)
 		end 
 	end
 	
