@@ -24,12 +24,12 @@ function TIC()
 
  	qy= py*s + z*c
 
-		pts[#pts+1]=
-		    {x= px*c - qy*s,
-		     y= py*c - z*s,
-		     z= px*s + qy*c + 400}
-	end
-	end	
+	pts[#pts+1]=
+	    {x= px*c - qy*s,
+	     y= py*c - z*s,
+	     z= px*s + qy*c + 400}
+ end
+ end	
  end
 
  table.sort(pts,function (a, b) 
