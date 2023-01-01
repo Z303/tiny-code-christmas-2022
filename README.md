@@ -33,3 +33,6 @@
 - [Day 10](https://tcc.lovebyte.party/day10/) - The Big Squeeze
 
     TIC-80: [255 bytes](./day10/tic-80.md)  
+- [Day 11](https://tcc.lovebyte.party/day11/) - The Third Dimension
+
+    TIC-80: [254 bytes](./day11/tic-80.md)  
