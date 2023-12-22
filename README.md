@@ -37,5 +37,3 @@
 
     TIC-80: [254 bytes](./day11/tic-80.md)  
 - [Day 12](https://tcc.lovebyte.party/day12/) - Rockin' around the Christmas Tree!
-
-    TIC-80: [254 bytes](./day12/tic-80.md)  
